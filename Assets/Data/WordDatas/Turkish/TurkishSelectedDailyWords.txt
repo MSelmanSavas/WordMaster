@@ -1,0 +1,3160 @@
+{
+    "WordList": [
+        {
+            "WordLength": 5,
+            "Word": "PAFTA",
+            "Meaning": "Bir bölgenin kadastro durumunu gösteren değişik malzemeler üzerine yapılmış parselleme çizgilerinin bütünü",
+            "Letters": [
+                80,
+                65,
+                70,
+                84,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SATIM",
+            "Meaning": "Satış",
+            "Letters": [
+                83,
+                65,
+                84,
+                73,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MİRZA",
+            "Meaning": "Bazı Türk topluluklarında ve İran'da kullanılan bir soyluluk sanı",
+            "Letters": [
+                77,
+                304,
+                82,
+                90,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEMAT",
+            "Meaning": "Ölüm",
+            "Letters": [
+                77,
+                69,
+                77,
+                65,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SADIK",
+            "Meaning": "Doğru, gerçek",
+            "Letters": [
+                83,
+                65,
+                68,
+                73,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SEDEF",
+            "Meaning": "Midye, istiridye vb. deniz hayvanlarının kabuğunda bulunan sedefçilikte kullanılan, pırıltılı, beyaz, sert bir madde",
+            "Letters": [
+                83,
+                69,
+                68,
+                69,
+                70
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AKİDE",
+            "Meaning": "Şekerin kaynatılarak katılaşması yolu ile yapılan, renkli ve kokulu, ağızda güç eriyen şeker, akide şekeri",
+            "Letters": [
+                65,
+                75,
+                304,
+                68,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SÜSEN",
+            "Meaning": "Süsengillerden, yaprakları kılıç biçiminde, çiçekleri iri ve mor renkli, güzel görünüşlü ve kokulu, çok yıllık bir süs bitkisi, susam (İris germanica)",
+            "Letters": [
+                83,
+                220,
+                83,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "YARGI",
+            "Meaning": "Kavrama, karşılaştırma, değerlendirme vb. yollara başvurularak kişi, durum veya nesnelerin eleştirici bir biçimde değerlendirilmesi, hüküm",
+            "Letters": [
+                89,
+                65,
+                82,
+                71,
+                73
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DİŞLİ",
+            "Meaning": "Dişleri olan çark",
+            "Letters": [
+                68,
+                304,
+                350,
+                76,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TARİK",
+            "Meaning": "Yol",
+            "Letters": [
+                84,
+                65,
+                82,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SÖNÜK",
+            "Meaning": "Sönmüş olan",
+            "Letters": [
+                83,
+                214,
+                78,
+                220,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GROGİ",
+            "Meaning": "Boksta rakibinin yumruklarıyla çok sarsılmış ancak hâlâ ayakta durabilen boksör",
+            "Letters": [
+                71,
+                82,
+                79,
+                71,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İMLİK",
+            "Meaning": "Kitap sayfaları arasına konulan ve okunan yeri belirlemekte kullanılan ince, uzun karton parçası",
+            "Letters": [
+                304,
+                77,
+                76,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KIDEM",
+            "Meaning": "Bir görevde rütbece eskilik",
+            "Letters": [
+                75,
+                73,
+                68,
+                69,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MELEZ",
+            "Meaning": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki), kırma",
+            "Letters": [
+                77,
+                69,
+                76,
+                69,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VERGİ",
+            "Meaning": "Kamu hizmetlerine harcanmak için hükûmetin, yerel yönetimlerin yasalara göre doğrudan doğruya veya bazı malların fiyatlarının üstüne koyarak dolaylı yoldan herkesten topladığı para",
+            "Letters": [
+                86,
+                69,
+                82,
+                71,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÖREKE",
+            "Meaning": "Eğrilmekte olan yün, keten vb. şeylerin tutturulduğu, bir ucu çatal değnek",
+            "Letters": [
+                214,
+                82,
+                69,
+                75,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İPEKA",
+            "Meaning": "Altın kökü",
+            "Letters": [
+                304,
+                80,
+                69,
+                75,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SAUNA",
+            "Meaning": "Kuru buhar banyosu",
+            "Letters": [
+                83,
+                65,
+                85,
+                78,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KUMRU",
+            "Meaning": "Güvercinler takımından, güvercinden küçük, boz, gri renkli bir kuş",
+            "Letters": [
+                75,
+                85,
+                77,
+                82,
+                85
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "YANSI",
+            "Meaning": "Bilgisayar veya tepegözle hazırlanan saydamın yansıtılmasıyla perdede ortaya çıkan görüntü",
+            "Letters": [
+                89,
+                65,
+                78,
+                83,
+                73
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MÜFTÜ",
+            "Meaning": "İl ve ilçelerde Müslümanların din işlerine bakan görevli",
+            "Letters": [
+                77,
+                220,
+                70,
+                84,
+                220
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "RACON",
+            "Meaning": "Yol, yöntem, usul",
+            "Letters": [
+                82,
+                65,
+                67,
+                79,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HATİM",
+            "Meaning": "Kur'an'ın tamamını okuma. Sona erdirme, bitirme.",
+            "Letters": [
+                72,
+                65,
+                84,
+                304,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "STANT",
+            "Meaning": "Sergilik",
+            "Letters": [
+                83,
+                84,
+                65,
+                78,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KONAK",
+            "Meaning": "genellikle bir avluyla çevrili, birkaç katlı, çok odalı, büyük ve gösterişli ev.",
+            "Letters": [
+                75,
+                79,
+                78,
+                65,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TABUT",
+            "Meaning": "Ölünün içine konulduğu sandık biçiminde araç.",
+            "Letters": [
+                84,
+                65,
+                66,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SAKİL",
+            "Meaning": "Çirkin, kaba, uyumsuz.",
+            "Letters": [
+                83,
+                65,
+                75,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NEFER",
+            "Meaning": "Rütbesiz asker, er.",
+            "Letters": [
+                78,
+                69,
+                70,
+                69,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SÖKEL",
+            "Meaning": "Sakat (kimse), güçsüz.",
+            "Letters": [
+                83,
+                214,
+                75,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İCBAR",
+            "Meaning": "Zorlama, zorunda bırakma",
+            "Letters": [
+                304,
+                67,
+                66,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KAVUK",
+            "Meaning": "Pamuktan yapılmış, üzerine sarık sarılan erkek başlığı",
+            "Letters": [
+                75,
+                65,
+                86,
+                85,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ALEYH",
+            "Meaning": "Bir şeyin veya bir kimsenin karşısında olma, leh karşıtı",
+            "Letters": [
+                65,
+                76,
+                69,
+                89,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MAMUT",
+            "Meaning": "Filgillerden, dördüncü zamanda Avrupa ve Asya'da yaşamış olan, şimdi ancak fosili bulunan iri, kıllı bir hayvan.",
+            "Letters": [
+                77,
+                65,
+                77,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KEBİR",
+            "Meaning": "Büyük, ulu",
+            "Letters": [
+                75,
+                69,
+                66,
+                304,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DERUN",
+            "Meaning": "İç, içeri, öz",
+            "Letters": [
+                68,
+                69,
+                82,
+                85,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BEYAN",
+            "Meaning": "Bildirme",
+            "Letters": [
+                66,
+                69,
+                89,
+                65,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FRANK",
+            "Meaning": "Fransa, İsviçre, Belçika vb. ülkelerin eski para birimi.",
+            "Letters": [
+                70,
+                82,
+                65,
+                78,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FOSİL",
+            "Meaning": "Geçmiş yer bilimi zamanlarına ilişkin hayvanların ve bitkilerin, yer kabuğu kayaçları içindeki kalıntıları veya izleri.",
+            "Letters": [
+                70,
+                79,
+                83,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TÜRAP",
+            "Meaning": "Toprak, toz",
+            "Letters": [
+                84,
+                220,
+                82,
+                65,
+                80
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "LAHUT",
+            "Meaning": "Kutsal",
+            "Letters": [
+                76,
+                65,
+                72,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KEŞEN",
+            "Meaning": "Zincirden yular veya ayak kösteği",
+            "Letters": [
+                75,
+                69,
+                350,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BATUR",
+            "Meaning": "savaşlarda, çarpışmalarda gücü ve yılmazlığıyla üstünlük kazanan, yiğit.",
+            "Letters": [
+                66,
+                65,
+                84,
+                85,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MOLLA",
+            "Meaning": "Büyük kadı",
+            "Letters": [
+                77,
+                79,
+                76,
+                76,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MARON",
+            "Meaning": "Kestane rengi",
+            "Letters": [
+                77,
+                65,
+                82,
+                79,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FİLOZ",
+            "Meaning": "Balıkçıların ağları su yüzünde tutmak için kullandıkları kabak veya mantardan yapılmış ağ şamandırası",
+            "Letters": [
+                70,
+                304,
+                76,
+                79,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TRAKE",
+            "Meaning": "Soluk borusu",
+            "Letters": [
+                84,
+                82,
+                65,
+                75,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BUCAK",
+            "Meaning": "Kenar, köşe, yer",
+            "Letters": [
+                66,
+                85,
+                67,
+                65,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EFEKT",
+            "Meaning": "Radyo ve televizyon yayınlarında, tiyatro oyunlarında veya film seslendirmelerinde, hareketleri izlemesi gereken seslerin doğal kaynakların dışında, optik, mekanik, kimyasal yöntemlerle gerçekleştirilmesi",
+            "Letters": [
+                69,
+                70,
+                69,
+                75,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AYRIÇ",
+            "Meaning": "Yol kavşağı, iki yolun ayrıldığı yer",
+            "Letters": [
+                65,
+                89,
+                82,
+                73,
+                199
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CİRİM",
+            "Meaning": "Büyüklük, hacim.",
+            "Letters": [
+                67,
+                304,
+                82,
+                304,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "PAZEN",
+            "Meaning": "Dokuması kalın, sık ve yumuşak, bir tür pamuklu bez",
+            "Letters": [
+                80,
+                65,
+                90,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ZABİT",
+            "Meaning": "Rütbesi teğmenden binbaşıya kadar olan asker",
+            "Letters": [
+                90,
+                65,
+                66,
+                304,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "PİNTİ",
+            "Meaning": "Aşırı derecede cimri, hasis",
+            "Letters": [
+                80,
+                304,
+                78,
+                84,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FİSTO",
+            "Meaning": "Elde veya makinede işlenmiş süslü şerit",
+            "Letters": [
+                70,
+                304,
+                83,
+                84,
+                79
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MAVAL",
+            "Meaning": "Yalan, uydurma söz",
+            "Letters": [
+                77,
+                65,
+                86,
+                65,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SEMAİ",
+            "Meaning": "Bir kurala bağlı olmayıp ancak işitmekle öğrenilen (söz)",
+            "Letters": [
+                83,
+                69,
+                77,
+                65,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İFLAS",
+            "Meaning": "Borçlarını ödeyemediği mahkeme kararı ile tespit ve ilan olunan iş adamının durumu, batkı",
+            "Letters": [
+                304,
+                70,
+                76,
+                65,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TABİP",
+            "Meaning": "Hekim",
+            "Letters": [
+                84,
+                65,
+                66,
+                304,
+                80
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BASİL",
+            "Meaning": "Bakterilerin çomak biçiminde ince uzun olan türü",
+            "Letters": [
+                66,
+                65,
+                83,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KARST",
+            "Meaning": "Kayaçların erimesiyle yer altı akıntıları olan, kireç taşı ve dolomit bölgesi",
+            "Letters": [
+                75,
+                65,
+                82,
+                83,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AYYUK",
+            "Meaning": "Göğün en yüksek yeri",
+            "Letters": [
+                65,
+                89,
+                89,
+                85,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KUBBE",
+            "Meaning": "Yarım küre biçiminde olan ve yapıyı örten dam, kümbet",
+            "Letters": [
+                75,
+                85,
+                66,
+                66,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SABAH",
+            "Meaning": "Günün ve gündüzün başlangıcı, gün ağarmasından sonraki kısa zaman.",
+            "Letters": [
+                83,
+                65,
+                66,
+                65,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MAŞER",
+            "Meaning": "İnsan topluluğu, toplum",
+            "Letters": [
+                77,
+                65,
+                350,
+                69,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VELUR",
+            "Meaning": "Kadife",
+            "Letters": [
+                86,
+                69,
+                76,
+                85,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "POTUR",
+            "Meaning": "Arka tarafında kırmaları çok, bacakları dar bir pantolon türü",
+            "Letters": [
+                80,
+                79,
+                84,
+                85,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÇİĞİT",
+            "Meaning": "Pamuk çekirdeği",
+            "Letters": [
+                199,
+                304,
+                286,
+                304,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ZAĞLI",
+            "Meaning": "Keskinleştirilmiş, bilenmiş, kılağılı.",
+            "Letters": [
+                90,
+                65,
+                286,
+                76,
+                73
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KAVGA",
+            "Meaning": "Düşmanca davranış ve sözlerle ortaya çıkan çekişme veya dövüş",
+            "Letters": [
+                75,
+                65,
+                86,
+                71,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SUVAT",
+            "Meaning": "Çay, dere kıyılarında hayvanların su içmesine elverişli yer",
+            "Letters": [
+                83,
+                85,
+                86,
+                65,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VAHİT",
+            "Meaning": "Bir, tek",
+            "Letters": [
+                86,
+                65,
+                72,
+                304,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EJDER",
+            "Meaning": "Ejderha",
+            "Letters": [
+                69,
+                74,
+                68,
+                69,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AMBAR",
+            "Meaning": "Genellikle tahıl saklanan yer",
+            "Letters": [
+                65,
+                77,
+                66,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GEDİK",
+            "Meaning": "Bir düzey üstündeki yıkık, çatlak veya aralık, rahne",
+            "Letters": [
+                71,
+                69,
+                68,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ALACA",
+            "Meaning": "Birkaç rengin karışımından oluşan renk, ala",
+            "Letters": [
+                65,
+                76,
+                65,
+                67,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SALPA",
+            "Meaning": "Gevşek, iş bilmez, tembel",
+            "Letters": [
+                83,
+                65,
+                76,
+                80,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EYLEM",
+            "Meaning": "Eyleme işi, fiil, hareket, aksiyon",
+            "Letters": [
+                69,
+                89,
+                76,
+                69,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "LAMEL",
+            "Meaning": "Mikroskopla yapılan incelemede bazen lamların üstüne kapatılan dört köşe, küçük ve ince cam parçası",
+            "Letters": [
+                76,
+                65,
+                77,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ERMİN",
+            "Meaning": "Kakım, sansargiller familyasından bir gelincik türü.",
+            "Letters": [
+                69,
+                82,
+                77,
+                304,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EHRAM",
+            "Meaning": "Mısır firavunlarının piramit biçimindeki mezarlarına verilen ortak ad, piramit.",
+            "Letters": [
+                69,
+                72,
+                82,
+                65,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "REZİL",
+            "Meaning": "Alçak, aşağılık",
+            "Letters": [
+                82,
+                69,
+                90,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ARIZİ",
+            "Meaning": "Sonradan olan, dıştan gelen",
+            "Letters": [
+                65,
+                82,
+                73,
+                90,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KASET",
+            "Meaning": "İçinde, görüntü ve seslerin kaydedildiği, gerektiğinde yeniden kullanılmasını sağlayan bir manyetik şeridin bulunduğu küçük kutu",
+            "Letters": [
+                75,
+                65,
+                83,
+                69,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SİMYA",
+            "Meaning": "Elementleri altına çevirmek isteyen, bununla uğraşırken kimi metallerin bulunmasına yol açtığı için kimya biliminin ilerlemesine katkıda bulunmuş olan eski bir uğraş alanı, alşimi",
+            "Letters": [
+                83,
+                304,
+                77,
+                89,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HALEL",
+            "Meaning": "Bozma, bozukluk",
+            "Letters": [
+                72,
+                65,
+                76,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEVKİ",
+            "Meaning": "Yer, mahal",
+            "Letters": [
+                77,
+                69,
+                86,
+                75,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HALEF",
+            "Meaning": "Birinin ardından gelip onun makamına geçen kimse, ardıl, selef karşıtı",
+            "Letters": [
+                72,
+                65,
+                76,
+                69,
+                70
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SEZON",
+            "Meaning": "Mevsim, belirli bir süre",
+            "Letters": [
+                83,
+                69,
+                90,
+                79,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CEPHE",
+            "Meaning": "Bir şeyin veya yapının ön tarafta bulunan bölümü",
+            "Letters": [
+                67,
+                69,
+                80,
+                72,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BAHAR",
+            "Meaning": "21 Martta gece ile gündüzün eşitliğiyle başlayan ve 22 Haziranda gündönümüyle sona eren, kış ile yaz arasındaki ılıman mevsim",
+            "Letters": [
+                66,
+                65,
+                72,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "RAMPA",
+            "Meaning": "Bir arazinin, bir kara yolunun, bir demir yolu hattının yatay doğrultuya göre yokuş olan bölümü",
+            "Letters": [
+                82,
+                65,
+                77,
+                80,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HASEP",
+            "Meaning": "Kişisel özellik, nitelik",
+            "Letters": [
+                72,
+                65,
+                83,
+                69,
+                80
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GEVEN",
+            "Meaning": "Baklagillerden, çok yıllık, bazı türlerinden kitre denilen zamk çıkarılan, dikenli bir çalı",
+            "Letters": [
+                71,
+                69,
+                86,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MUCİR",
+            "Meaning": "Kiraya veren kimse",
+            "Letters": [
+                77,
+                85,
+                67,
+                304,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BALIK",
+            "Meaning": "Omurgalılardan, suda yaşayan, solungaçla nefes alan ve yumurtadan üreyen hayvanların genel adı",
+            "Letters": [
+                66,
+                65,
+                76,
+                73,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TİMÜS",
+            "Meaning": "Göğüs kemiği arkasında bulunan iç salgı bezi",
+            "Letters": [
+                84,
+                304,
+                77,
+                220,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MATLA",
+            "Meaning": "Gök cisimlerinin doğması, doğduğu yer",
+            "Letters": [
+                77,
+                65,
+                84,
+                76,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KOŞUN",
+            "Meaning": "Yan yana durmuş asker dizisi, saf",
+            "Letters": [
+                75,
+                79,
+                350,
+                85,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MAYIN",
+            "Meaning": "Toprak altına, üstüne veya suyun içine yerleştirilen, doğrudan doğruya çarpma veya basınç etkisiyle patlayarak zarara yol açan patlayıcı madde",
+            "Letters": [
+                77,
+                65,
+                89,
+                73,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FEVRİ",
+            "Meaning": "Birdenbire, düşünmeden yapan",
+            "Letters": [
+                70,
+                69,
+                86,
+                82,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FODLA",
+            "Meaning": "Çoğunlukla imaretlerde yoksullara verilen kepekli undan yapılmış pideye benzer bir ekmek türü",
+            "Letters": [
+                70,
+                79,
+                68,
+                76,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TIFIL",
+            "Meaning": "Küçük çocuk",
+            "Letters": [
+                84,
+                73,
+                70,
+                73,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TÜTSÜ",
+            "Meaning": "Çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde, buhur",
+            "Letters": [
+                84,
+                220,
+                84,
+                83,
+                220
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MADEN",
+            "Meaning": "Yer kabuğunun bazı bölgelerinde çeşitli iç ve dış doğal etkenlerle oluşan, ekonomik yönden değer taşıyan mineral",
+            "Letters": [
+                77,
+                65,
+                68,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GÖKÇE",
+            "Meaning": "Gök rengi, mavi",
+            "Letters": [
+                71,
+                214,
+                75,
+                199,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CİVAN",
+            "Meaning": "Yakışıklı genç erkek veya güzel genç kadın",
+            "Letters": [
+                67,
+                304,
+                86,
+                65,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "LAMBA",
+            "Meaning": "Petrol gibi yanıcı bir madde yakarak veya elektrik akımıyla içindeki teller akkor durumuna geçerek ışık veren alet",
+            "Letters": [
+                76,
+                65,
+                77,
+                66,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BOHÇA",
+            "Meaning": "İçine çamaşır, elbise vb. koyup sarılan dört köşe kumaş",
+            "Letters": [
+                66,
+                79,
+                72,
+                199,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SUNUM",
+            "Meaning": "Sunma işi",
+            "Letters": [
+                83,
+                85,
+                78,
+                85,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "UZLET",
+            "Meaning": "Toplum yaşayışından kaçıp tek başına yaşama",
+            "Letters": [
+                85,
+                90,
+                76,
+                69,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TUNİK",
+            "Meaning": "Pantolon veya etek üzerine giyilen, dizlere kadar inen üst giysisi",
+            "Letters": [
+                84,
+                85,
+                78,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DEKAR",
+            "Meaning": "1000 m² değerinde yüzey ölçü birimi",
+            "Letters": [
+                68,
+                69,
+                75,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HARBİ",
+            "Meaning": "Ateşli silahların içini temizlemekte kullanılan çubuk, harbe",
+            "Letters": [
+                72,
+                65,
+                82,
+                66,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TELİF",
+            "Meaning": "Uzlaştırma",
+            "Letters": [
+                84,
+                69,
+                76,
+                304,
+                70
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DALAŞ",
+            "Meaning": "Kavga, gürültülü bağrışıp çağrışma",
+            "Letters": [
+                68,
+                65,
+                76,
+                65,
+                350
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NEKRE",
+            "Meaning": "Beklenmedik hoş ve şaşırtıcı sözler söyleyen, güldürücü hikâye anlatan (kimse), nükteci",
+            "Letters": [
+                78,
+                69,
+                75,
+                82,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BARAJ",
+            "Meaning": "Suyu toplama, sulama ve elektrik üretme amacıyla akarsu üzerine yapılan bent",
+            "Letters": [
+                66,
+                65,
+                82,
+                65,
+                74
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BASKI",
+            "Meaning": "Bir eserin basılış biçimi veya durumu",
+            "Letters": [
+                66,
+                65,
+                83,
+                75,
+                73
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEŞUM",
+            "Meaning": "Uğursuz",
+            "Letters": [
+                77,
+                69,
+                350,
+                85,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÇADIR",
+            "Meaning": "Keçe, deri, kıl dokuma, sık dokunmuş kalın bez veya plastik maddelerden yapılarak direklerle tutturulan, taşınabilir barınak, çerge, oba, otağ",
+            "Letters": [
+                199,
+                65,
+                68,
+                73,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ATLAS",
+            "Meaning": "Dünyanın, bir ülkenin, bir bölgenin fiziksel ve siyasal coğrafyası ile ekonomi, tarih vb. konularda toplu bilgi vermek için bir araya getirilmiş coğrafya haritaları derlemesi",
+            "Letters": [
+                65,
+                84,
+                76,
+                65,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HATIR",
+            "Meaning": "Düşünme, akılda tutma, hafıza, zihin, akıl, yâd",
+            "Letters": [
+                72,
+                65,
+                84,
+                73,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KONUT",
+            "Meaning": "İnsanların içinde yaşadıkları ev, apartman vb. yer, mesken, ikametgâh",
+            "Letters": [
+                75,
+                79,
+                78,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İBLAĞ",
+            "Meaning": "Ulaştırma, eriştirme",
+            "Letters": [
+                304,
+                66,
+                76,
+                65,
+                286
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FETİH",
+            "Meaning": "Bir şehir veya ülkeyi savaşarak alma",
+            "Letters": [
+                70,
+                69,
+                84,
+                304,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HOKKA",
+            "Meaning": "Metal, cam veya topraktan yapılmış, içine mürekkep vb. şeyler konulan küçük kap",
+            "Letters": [
+                72,
+                79,
+                75,
+                75,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SEBAT",
+            "Meaning": "Sözünden veya kararlarından dönmeme, bir işi sonuna değin sürdürme, direşme",
+            "Letters": [
+                83,
+                69,
+                66,
+                65,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "PAPAZ",
+            "Meaning": "Hristiyan din adamı, peder",
+            "Letters": [
+                80,
+                65,
+                80,
+                65,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DERİN",
+            "Meaning": "Dibi yüzeyinden veya ağzından uzak olan",
+            "Letters": [
+                68,
+                69,
+                82,
+                304,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "UĞRUN",
+            "Meaning": "Gizlice",
+            "Letters": [
+                85,
+                286,
+                82,
+                85,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DELİL",
+            "Meaning": "İnsanı aradığı gerçeğe ulaştırabilecek iz, emare",
+            "Letters": [
+                68,
+                69,
+                76,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FULYA",
+            "Meaning": "Nergisgillerden, soğan köklü bir bitki, zerrin ",
+            "Letters": [
+                70,
+                85,
+                76,
+                89,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HEZEL",
+            "Meaning": "Şaka, alay, mizah",
+            "Letters": [
+                72,
+                69,
+                90,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "OBERJ",
+            "Meaning": "Şehir merkezinin dışında sade, basit kurulmuş konaklama yeri",
+            "Letters": [
+                79,
+                66,
+                69,
+                82,
+                74
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "RODAJ",
+            "Meaning": "Alıştırma",
+            "Letters": [
+                82,
+                79,
+                68,
+                65,
+                74
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DURGU",
+            "Meaning": "Olmakta, işlemekte, yolunca gitmekte olan bir şeyin ansızın kesilmesi",
+            "Letters": [
+                68,
+                85,
+                82,
+                71,
+                85
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VOKAL",
+            "Meaning": "Sesle ilgili, sessel",
+            "Letters": [
+                86,
+                79,
+                75,
+                65,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TERAS",
+            "Meaning": "Bir yapının damında çevresi, üstü açık yer, ayazlık, taraça",
+            "Letters": [
+                84,
+                69,
+                82,
+                65,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SAFİR",
+            "Meaning": "Mavi renkli, değerli bir korindon türü, gök yakut",
+            "Letters": [
+                83,
+                65,
+                70,
+                304,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ORFOZ",
+            "Meaning": " Ege ve Akdeniz'de bulunan, eti beyaz ve lezzetli, 10 kilogramdan 50 kilograma kadar ağırlığı olan bir tür balık ",
+            "Letters": [
+                79,
+                82,
+                70,
+                79,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÇELİK",
+            "Meaning": "Su verilerek çok sert ve esnek bir duruma getirilebilen, birleşiminde az miktarda karbon bulunan demir ve karbon alaşımı",
+            "Letters": [
+                199,
+                69,
+                76,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÇAKIR",
+            "Meaning": "Açık mavi, hareli ela",
+            "Letters": [
+                199,
+                65,
+                75,
+                73,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DOMUR",
+            "Meaning": "Kabarcık",
+            "Letters": [
+                68,
+                79,
+                77,
+                85,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "LANET",
+            "Meaning": "Tanrı'nın merhametinden yoksun olma",
+            "Letters": [
+                76,
+                65,
+                78,
+                69,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MİRAT",
+            "Meaning": "Ayna",
+            "Letters": [
+                77,
+                304,
+                82,
+                65,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TEREK",
+            "Meaning": "Evlerin veya dükkânların yüksekçe yerinde bulunan raf",
+            "Letters": [
+                84,
+                69,
+                82,
+                69,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HIZAR",
+            "Meaning": "Tahta ve kereste biçmeye yarayan, elektrik ve su gücüyle çalışan büyük bıçkı",
+            "Letters": [
+                72,
+                73,
+                90,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ATFEN",
+            "Meaning": "Mal ederek, yükleyerek",
+            "Letters": [
+                65,
+                84,
+                70,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ANTRE",
+            "Meaning": "Giriş",
+            "Letters": [
+                65,
+                78,
+                84,
+                82,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FİBER",
+            "Meaning": "Sıkıştırılmış bitki tellerinden yapılmış mukavva veya tahta",
+            "Letters": [
+                70,
+                304,
+                66,
+                69,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AKONT",
+            "Meaning": "Bir borca karşılık, hesabı daha sonra görülmek üzere yapılan kısmi ödeme",
+            "Letters": [
+                65,
+                75,
+                79,
+                78,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VAKAR",
+            "Meaning": "Ağırbaşlılık",
+            "Letters": [
+                86,
+                65,
+                75,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FALYA",
+            "Meaning": "Topları ateşlemek için ağızotunun konulduğu delik",
+            "Letters": [
+                70,
+                65,
+                76,
+                89,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GÖREV",
+            "Meaning": "Bir nesne veya bir kimsenin yaptığı iş",
+            "Letters": [
+                71,
+                214,
+                82,
+                69,
+                86
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NAKİL",
+            "Meaning": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma, geçirme, aktarım",
+            "Letters": [
+                78,
+                65,
+                75,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FLÖRT",
+            "Meaning": "Kadınla erkek arasındaki duygusal ilişki",
+            "Letters": [
+                70,
+                76,
+                214,
+                82,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TOPUR",
+            "Meaning": "Kestanenin dikenli olan dış kabuğu",
+            "Letters": [
+                84,
+                79,
+                80,
+                85,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SÜMEN",
+            "Meaning": "Üzerinde yazı yazmaya, arasında evrak saklamaya yarayan deri kaplı altlık",
+            "Letters": [
+                83,
+                220,
+                77,
+                69,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FANUS",
+            "Meaning": "Süslü, ayaklı fener",
+            "Letters": [
+                70,
+                65,
+                78,
+                85,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KUYUM",
+            "Meaning": "Değerli metal ve taşlardan yapılan süs eşyası",
+            "Letters": [
+                75,
+                85,
+                89,
+                85,
+                77
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NATUK",
+            "Meaning": "Düzgün, güzel ve kolaylıkla söz söyleyen",
+            "Letters": [
+                78,
+                65,
+                84,
+                85,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SAYRI",
+            "Meaning": "Hasta",
+            "Letters": [
+                83,
+                65,
+                89,
+                82,
+                73
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ABULİ",
+            "Meaning": "İrade yitimi",
+            "Letters": [
+                65,
+                66,
+                85,
+                76,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KAZIK",
+            "Meaning": "Toprağa çakılmak için hazırlanmış, ucu sivri demir veya ağaç",
+            "Letters": [
+                75,
+                65,
+                90,
+                73,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ITRAH",
+            "Meaning": "Vücuttan dışarı çıkarma, dışarı atma",
+            "Letters": [
+                73,
+                84,
+                82,
+                65,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KAMET",
+            "Meaning": "Boy, endam",
+            "Letters": [
+                75,
+                65,
+                77,
+                69,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HİDİV",
+            "Meaning": "Osmanlı Devleti'nde Kavalalı Mehmet Ali Paşa'dan sonra Mısır valilerine verilen unvan",
+            "Letters": [
+                72,
+                304,
+                68,
+                304,
+                86
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BAGAJ",
+            "Meaning": "Yolcu yükü",
+            "Letters": [
+                66,
+                65,
+                71,
+                65,
+                74
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FASİH",
+            "Meaning": "Açık ve düzgün (anlatış)",
+            "Letters": [
+                70,
+                65,
+                83,
+                304,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MAHUT",
+            "Meaning": "Bilinen, adı geçen, sözü geçen",
+            "Letters": [
+                77,
+                65,
+                72,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEYUS",
+            "Meaning": "Üzgün",
+            "Letters": [
+                77,
+                69,
+                89,
+                85,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CEZAİ",
+            "Meaning": "Ceza ile ilgili, cezaya ilişkin, cezaya dayanan",
+            "Letters": [
+                67,
+                69,
+                90,
+                65,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ANANE",
+            "Meaning": "Gelenek",
+            "Letters": [
+                65,
+                78,
+                65,
+                78,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ALENİ",
+            "Meaning": "Açık, ortada, meydanda, herkesin içinde yapılan",
+            "Letters": [
+                65,
+                76,
+                69,
+                78,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İTİLA",
+            "Meaning": "Yücelme",
+            "Letters": [
+                304,
+                84,
+                304,
+                76,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SEANS",
+            "Meaning": "Bir işin yapılmasına ayrılan çalışma süresi, oturum",
+            "Letters": [
+                83,
+                69,
+                65,
+                78,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "YAKUT",
+            "Meaning": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş",
+            "Letters": [
+                89,
+                65,
+                75,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "RÖFLE",
+            "Meaning": "Saçı yer yer değişik tonlarda boyama işlemi",
+            "Letters": [
+                82,
+                214,
+                70,
+                76,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BAHİR",
+            "Meaning": "Deniz",
+            "Letters": [
+                66,
+                65,
+                72,
+                304,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HADDE",
+            "Meaning": "Madenleri tel durumuna getirmek için kullanılan ve türlü çapta delikleri olan çelik araç",
+            "Letters": [
+                72,
+                65,
+                68,
+                68,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GALOŞ",
+            "Meaning": "Sağlık kurumları, müzeler vb. yerlerde özel bölümlere girerken ayakkabıya geçirilen ince ve şeffaf kılıf",
+            "Letters": [
+                71,
+                65,
+                76,
+                79,
+                350
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KÖMBE",
+            "Meaning": "Un, tuz ve yağ ile yoğrulan kızgın sacda veya fırında pişirilen ekmek",
+            "Letters": [
+                75,
+                214,
+                77,
+                66,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEVZU",
+            "Meaning": "Konu",
+            "Letters": [
+                77,
+                69,
+                86,
+                90,
+                85
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AYNAZ",
+            "Meaning": "Köy oyunlarını yöneten kimse",
+            "Letters": [
+                65,
+                89,
+                78,
+                65,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HOŞAF",
+            "Meaning": "Bütün veya dilimler hâlindeki kuru meyvenin şekerli suyla kaynatılmasıyla yapılan bir tatlı türü",
+            "Letters": [
+                72,
+                79,
+                350,
+                65,
+                70
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÜFLEÇ",
+            "Meaning": "Kaynak yapımında, metalleri kesme ve eritme işlemlerinde kullanılan, alev püskürten araç, hamlaç",
+            "Letters": [
+                220,
+                70,
+                76,
+                69,
+                199
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "YAKİN",
+            "Meaning": "Sağlam, kesin bilgi",
+            "Letters": [
+                89,
+                65,
+                75,
+                304,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SİNLE",
+            "Meaning": "Mezarlık",
+            "Letters": [
+                83,
+                304,
+                78,
+                76,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SETİR",
+            "Meaning": "Bir şeyi örtme, gizleme",
+            "Letters": [
+                83,
+                69,
+                84,
+                304,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BUŞON",
+            "Meaning": "Şişeyi kapatmaya yarayan tapa",
+            "Letters": [
+                66,
+                85,
+                350,
+                79,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İSALE",
+            "Meaning": "Akıtma",
+            "Letters": [
+                304,
+                83,
+                65,
+                76,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ISTAR",
+            "Meaning": "Halı, kilim dokunan tezgâh",
+            "Letters": [
+                73,
+                83,
+                84,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NEŞİR",
+            "Meaning": "Yayma, dağıtma, saçma",
+            "Letters": [
+                78,
+                69,
+                350,
+                304,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CÜSSE",
+            "Meaning": "İnsan gövdesi",
+            "Letters": [
+                67,
+                220,
+                83,
+                83,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SEFİH",
+            "Meaning": "Zevk ve eğlenceye düşkün, uçarı",
+            "Letters": [
+                83,
+                69,
+                70,
+                304,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NAFİA",
+            "Meaning": "Bir yeri bayındır duruma getirmek için yapılan işlerin tamamı, bayındırlık işleri",
+            "Letters": [
+                78,
+                65,
+                70,
+                304,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CİCOZ",
+            "Meaning": "Cam veya toprak bilyelerle oynanan bir çocuk oyunu",
+            "Letters": [
+                67,
+                304,
+                67,
+                79,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EMTİA",
+            "Meaning": "Satılacak şeyler, mal",
+            "Letters": [
+                69,
+                77,
+                84,
+                304,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MADİK",
+            "Meaning": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+            "Letters": [
+                77,
+                65,
+                68,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GÖVEL",
+            "Meaning": "Yeşil başlı (ördek)",
+            "Letters": [
+                71,
+                214,
+                86,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FERİK",
+            "Meaning": "Kümes hayvanlarının civcivlikten çıkmış yavrusu, piliç",
+            "Letters": [
+                70,
+                69,
+                82,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HUSUF",
+            "Meaning": "Ay tutulması",
+            "Letters": [
+                72,
+                85,
+                83,
+                85,
+                70
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HAZAR",
+            "Meaning": "Hazar Denizi'nin ve Kafkasların kuzeyinde yaşamış bir Türk boyu",
+            "Letters": [
+                72,
+                65,
+                90,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "PAPEL",
+            "Meaning": "Bir liralık kâğıt para",
+            "Letters": [
+                80,
+                65,
+                80,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "REAYA",
+            "Meaning": "Bir hükümdarın yönetimi altındaki halk",
+            "Letters": [
+                82,
+                69,
+                65,
+                89,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KÜSUF",
+            "Meaning": "Güneş tutulması",
+            "Letters": [
+                75,
+                220,
+                83,
+                85,
+                70
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CİBİN",
+            "Meaning": "Sinek",
+            "Letters": [
+                67,
+                304,
+                66,
+                304,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "HALİÇ",
+            "Meaning": "Koy, körfez",
+            "Letters": [
+                72,
+                65,
+                76,
+                304,
+                199
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VAKUR",
+            "Meaning": "Ağırbaşlı",
+            "Letters": [
+                86,
+                65,
+                75,
+                85,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "RADYO",
+            "Meaning": "Elektrik dalgalarının özelliğinden yararlanarak seslerin iletilmesi sistemi",
+            "Letters": [
+                82,
+                65,
+                68,
+                89,
+                79
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KABZA",
+            "Meaning": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+            "Letters": [
+                75,
+                65,
+                66,
+                90,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VİRAJ",
+            "Meaning": "Dönemeç",
+            "Letters": [
+                86,
+                304,
+                82,
+                65,
+                74
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "AFİŞE",
+            "Meaning": "`Açığa vurmak, belirtmek; duyurmak, dile düşürmek, reklam etmek; açıklamak` anlamlarındaki afişe etmek, `bir kimse bilinmeyen bir yönüyle tanınmak` anlamındaki afişe olmak birleşik fiillerinde geçen bir söz",
+            "Letters": [
+                65,
+                70,
+                304,
+                350,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SAHİH",
+            "Meaning": "Gerçek, doğru, sağın, hakiki",
+            "Letters": [
+                83,
+                65,
+                72,
+                304,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÇERÇİ",
+            "Meaning": "Köy, pazar vb. yerlerde dolaşarak ufak tefek tuhafiye eşyası satan kimse",
+            "Letters": [
+                199,
+                69,
+                82,
+                199,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MISRA",
+            "Meaning": "Dize",
+            "Letters": [
+                77,
+                73,
+                83,
+                82,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İZHAR",
+            "Meaning": "Belirtme, gösterme, açığa vurma",
+            "Letters": [
+                304,
+                90,
+                72,
+                65,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İBDAİ",
+            "Meaning": "Özgün",
+            "Letters": [
+                304,
+                66,
+                68,
+                65,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SÜBYE",
+            "Meaning": "Mürekkep balığı",
+            "Letters": [
+                83,
+                220,
+                66,
+                89,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "BENİZ",
+            "Meaning": "Yüz",
+            "Letters": [
+                66,
+                69,
+                78,
+                304,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ABOSA",
+            "Meaning": "Gemide hareket hâlindeki halatın veya zincirin bir an durdurulması için verilen komut",
+            "Letters": [
+                65,
+                66,
+                79,
+                83,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ZELVE",
+            "Meaning": "Çift öküzünün boyunduruktan çıkmaması için boynunun iki yanından boyunduruğa, aşağıya doğru geçirilen çubuk",
+            "Letters": [
+                90,
+                69,
+                76,
+                86,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "LAÇKA",
+            "Meaning": "Gemi halatının gevşetilip boşa bırakılması",
+            "Letters": [
+                76,
+                65,
+                199,
+                75,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ŞAPEL",
+            "Meaning": "Küçük kilise",
+            "Letters": [
+                350,
+                65,
+                80,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DİZEL",
+            "Meaning": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+            "Letters": [
+                68,
+                304,
+                90,
+                69,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEBUS",
+            "Meaning": "Milletvekili",
+            "Letters": [
+                77,
+                69,
+                66,
+                85,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FLORA",
+            "Meaning": "Bitki örtüsü",
+            "Letters": [
+                70,
+                76,
+                79,
+                82,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EYVAN",
+            "Meaning": "Teras, sundurma, ayvan",
+            "Letters": [
+                69,
+                89,
+                86,
+                65,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEZAT",
+            "Meaning": "Açık artırma ile satış",
+            "Letters": [
+                77,
+                69,
+                90,
+                65,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "RAYİÇ",
+            "Meaning": "Bir para biriminin veya malın satış ve sürüm değeri",
+            "Letters": [
+                82,
+                65,
+                89,
+                304,
+                199
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NÜANS",
+            "Meaning": "Ayırtı",
+            "Letters": [
+                78,
+                220,
+                65,
+                78,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KARIK",
+            "Meaning": "Kar yağmış bir alana bakma sonucu ortaya çıkan göz kamaşması",
+            "Letters": [
+                75,
+                65,
+                82,
+                73,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "GÜMEÇ",
+            "Meaning": "Bal peteğini oluşturan altı köşeli gözeneklerden her biri",
+            "Letters": [
+                71,
+                220,
+                77,
+                69,
+                199
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "LENTO",
+            "Meaning": "Yapılarda kapı ve pencerelerin ağaçtan, taştan ya da betondan yapılmış üst eşiği.",
+            "Letters": [
+                76,
+                69,
+                78,
+                84,
+                79
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ESKİZ",
+            "Meaning": "Mimari eserler ve resim için çizimlerle yapılan ön çalışma, taslak",
+            "Letters": [
+                69,
+                83,
+                75,
+                304,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MEHİL",
+            "Meaning": "Bir işin tamamlanması için tanınan ek süre",
+            "Letters": [
+                77,
+                69,
+                72,
+                304,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "YANCI",
+            "Meaning": "Kahvelerde oynanan oyunları seyreden ve bedavadan yiyip içen kimse",
+            "Letters": [
+                89,
+                65,
+                78,
+                67,
+                73
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "DİMAĞ",
+            "Meaning": "Beyin",
+            "Letters": [
+                68,
+                304,
+                77,
+                65,
+                286
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SURET",
+            "Meaning": "Görünüş, biçim",
+            "Letters": [
+                83,
+                85,
+                82,
+                69,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ÇARIK",
+            "Meaning": "İşlenmemiş sığır derisinden yapılan ve deliklerine geçirilen şeritle sıkıca bağlanan ayakkabı",
+            "Letters": [
+                199,
+                65,
+                82,
+                73,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MATAH",
+            "Meaning": "İnsan, mal, eşya vb. için küçümseme yollu bir söz",
+            "Letters": [
+                77,
+                65,
+                84,
+                65,
+                72
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MABUT",
+            "Meaning": "Kendisine tapılan varlık",
+            "Letters": [
+                77,
+                65,
+                66,
+                85,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "VALÖR",
+            "Meaning": "Değer",
+            "Letters": [
+                86,
+                65,
+                76,
+                214,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "CEZBE",
+            "Meaning": "Bir duygu veya bir inanışın etkisiyle aşırı ölçüde coşup kendinden geçme durumu",
+            "Letters": [
+                67,
+                69,
+                90,
+                66,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "SÜMER",
+            "Meaning": "Mezopotamya'da yaşamış bir ulus ve bu ulustan olan kimse",
+            "Letters": [
+                83,
+                220,
+                77,
+                69,
+                82
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "EFDAL",
+            "Meaning": "Erdemli",
+            "Letters": [
+                69,
+                70,
+                68,
+                65,
+                76
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KEKRE",
+            "Meaning": "Tadı acımtırak, ekşimsi ve buruk olan",
+            "Letters": [
+                75,
+                69,
+                75,
+                82,
+                69
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "FAUNA",
+            "Meaning": "Bir yerin veya dönemin hayvansal doğası",
+            "Letters": [
+                70,
+                65,
+                85,
+                78,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "APSİS",
+            "Meaning": "Yönlü bir eksen üzerinde bir noktanın, başlangıç noktasına olan uzaklığının cebirsel değeri",
+            "Letters": [
+                65,
+                80,
+                83,
+                304,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "PELİT",
+            "Meaning": "Meşe ağacı",
+            "Letters": [
+                80,
+                69,
+                76,
+                304,
+                84
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "YALAZ",
+            "Meaning": "Alev, alaz",
+            "Letters": [
+                89,
+                65,
+                76,
+                65,
+                90
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ŞERİK",
+            "Meaning": "Ortak",
+            "Letters": [
+                350,
+                69,
+                82,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MURİS",
+            "Meaning": "Miras bırakan",
+            "Letters": [
+                77,
+                85,
+                82,
+                304,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "İZAFİ",
+            "Meaning": "Göreceli",
+            "Letters": [
+                304,
+                90,
+                65,
+                70,
+                304
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "MECUS",
+            "Meaning": "Ateşe tapanların bağlı oldukları din",
+            "Letters": [
+                77,
+                69,
+                67,
+                85,
+                83
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KÜNCÜ",
+            "Meaning": "Susam tanesi",
+            "Letters": [
+                75,
+                220,
+                78,
+                67,
+                220
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ORLON",
+            "Meaning": "Yapay dokuma ipliği",
+            "Letters": [
+                79,
+                82,
+                76,
+                79,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "TALİK",
+            "Meaning": "Asma, yukarı kaldırma",
+            "Letters": [
+                84,
+                65,
+                76,
+                304,
+                75
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "NADAN",
+            "Meaning": "Bilgisiz, cahil",
+            "Letters": [
+                78,
+                65,
+                68,
+                65,
+                78
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "ZANKA",
+            "Meaning": "İki atlı kızak",
+            "Letters": [
+                90,
+                65,
+                78,
+                75,
+                65
+            ]
+        },
+        {
+            "WordLength": 5,
+            "Word": "KADEM",
+            "Meaning": "Ayak",
+            "Letters": [
+                75,
+                65,
+                68,
+                69,
+                77
+            ]
+        }
+    ]
+}

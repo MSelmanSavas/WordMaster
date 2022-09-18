@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8440810877374142686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8440810877374142685}
+  - component: {fileID: 5515598576345405697}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8440810877374142685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8440810877374142686}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5515598576345405697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8440810877374142686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b442abbb426fac04f9cdf7f7d6d28bc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentDictionarySO: {fileID: 0}
+  CurrentLevelData:
+    ToBeSelectedWordLength: 0
+    MaxTryAmount: 0
+    CurrentWordData:
+      WordLength: 0
+      Word: 
+      Letters: 
+      Meaning: 
+  NotValidWordPrefab: {fileID: 4094838945830798576, guid: 95422ed92441e1446bb861049491e0b3, type: 3}
+  LetterBoxGroupPrefab: {fileID: 5846664142712495346, guid: d8bfa263bdfd91741bae67b06ed8c38c, type: 3}
+  LetterBoxPrefab: {fileID: 1164928076332246043, guid: 26d8c5c25a86633429ac4273c13c03fd, type: 3}
+  DefaultColor: {r: 1, g: 1, b: 1, a: 1}
+  FoundButWrongIndexColor: {r: 1, g: 0.71290123, b: 0, a: 1}
+  FoundAndCorrectIndexColor: {r: 0.03184688, g: 1, b: 0, a: 1}
+  NotCorrectColor: {r: 0, g: 0, b: 0, a: 0}
+  CurrentGamefieldData:
+    VerticalGrouper: {fileID: 0}
+    Groups: []
+    WordLength: 0
+    CurrentTryGroup: 0
+    MaxTryAmount: 0
+    CurrentWordLetterIndex: 0
+    CurrentlyGuessedCharacters: 
+  CurrentKeyboard: {fileID: 0}
+  LettersVerticalGrouper: {fileID: 0}
+  WordUnlockText: {fileID: 0}

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5348455995780844321
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5348455995780844350}
+  - component: {fileID: 5348455995780844351}
+  m_Layer: 0
+  m_Name: WindowManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5348455995780844350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5348455995780844321}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.04933299, y: -0.32792246, z: -2.10758}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5348455995780844351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5348455995780844321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab176a3e830e8534c83260548c81f8aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentCanvas: {fileID: 0}
+  WinScreenPrefab: {fileID: 3360181629565542084, guid: e2e09ed7f3fbe43479d595c703107587, type: 3}
+  LoseScreenPrefab: {fileID: 3360181629565542084, guid: 4fffc857db1431a4aa24db577126f9f2, type: 3}
+  UserStatisticsPrefab: {fileID: 1126099398780764581, guid: b0fb08b3b4f20f94887b8ac599a71d5c, type: 3}
+  TutorialPrefab: {fileID: 1126099398780764581, guid: a8443b677fc37454b9405d36d67fd360, type: 3}
+  EndGamePopup: {fileID: 6927177697084217376, guid: 3352caa67e7c5ca439069cd916347df2, type: 3}
+  SettingsPopupPrefab: {fileID: 1126099398780764581, guid: b5083bafa4b7e9742a8c41604da1e703, type: 3}

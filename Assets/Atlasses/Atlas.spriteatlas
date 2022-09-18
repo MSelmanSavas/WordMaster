@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 407af3abf712946448756a66fdef9477, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b0434b208f7baff4da4957c547e8622e, type: 3}
+  - {fileID: 21300000, guid: ce217a50da9688d4daaec3af950da6e6, type: 3}
+  - {fileID: 21300000, guid: e5155b50c64f4484788a216691692d25, type: 3}
+  - {fileID: 21300000, guid: 572726b0d66c90b4dbcdaa5458cf5167, type: 3}
+  - {fileID: 21300000, guid: eadd66c087f04004c90784941cc707f8, type: 3}
+  - {fileID: 21300000, guid: a4e7d9c03b9dccc40ab8749178ce16ad, type: 3}
+  - {fileID: 21300000, guid: d5fda051d1725b74f8f920a6e5146a3d, type: 3}
+  - {fileID: 21300000, guid: f868c65199f1a334bb088e758d039e05, type: 3}
+  - {fileID: 21300000, guid: d2e953b12a9172e45a7d5dd139118e23, type: 3}
+  - {fileID: 21300000, guid: 25dfd14277f00c041ab79608b672c8f8, type: 3}
+  - {fileID: 21300000, guid: 1c41ef62636af4249956782c1af06d81, type: 3}
+  - {fileID: 21300000, guid: b69ec87275213f2419c2fc2c0c8c98d3, type: 3}
+  - {fileID: 21300000, guid: 1b6e00b273cee0d40a2373432aa63395, type: 3}
+  - {fileID: 21300000, guid: d7fdbcb2d2c107e45b0a6987dd196b1c, type: 3}
+  - {fileID: 21300000, guid: f3c55c54ae53af6429bc6ba85001f260, type: 3}
+  - {fileID: 21300000, guid: 3390b494dcd23054db2a7d5c7a1c9d8c, type: 3}
+  - {fileID: 21300000, guid: f12feab4dda135c4998a414966f000d5, type: 3}
+  - {fileID: 21300000, guid: 762678057f370084db08339c0bb9869b, type: 3}
+  - {fileID: 21300000, guid: 4c4f80d5096e18f438132393b2d2fca0, type: 3}
+  - {fileID: 21300000, guid: 82440876ec0470449ad5bbeb1a4cf24c, type: 3}
+  - {fileID: 21300000, guid: f799278640aad0a43b90b0f9f2bee864, type: 3}
+  - {fileID: 21300000, guid: 6a730707ab72536498e30e32ab913bfe, type: 3}
+  - {fileID: 21300000, guid: ae27cc27873210a46b2bb65ffaeabd52, type: 3}
+  - {fileID: 21300000, guid: 4fba3d47d334587408344ac3ade52af2, type: 3}
+  - {fileID: 21300000, guid: 490f8a872958f3f49b7e241bc5b20809, type: 3}
+  - {fileID: 21300000, guid: b5cdf928d83789e46939405d3d9c5309, type: 3}
+  - {fileID: 21300000, guid: c2f67858d19a4f645a83b7e9e1afafe7, type: 3}
+  - {fileID: 21300000, guid: abfdf8e91dace77419c0cd374ccfdb2c, type: 3}
+  - {fileID: 21300000, guid: f685162ae9c784b47a8b850e6713e3a5, type: 3}
+  - {fileID: 21300000, guid: e1df435a13e1c3340aff711c8013123f, type: 3}
+  - {fileID: 7482667652216324306, guid: 5650647b136738d43a0bb8baa8163e37, type: 3}
+  - {fileID: 21300000, guid: 7212bf7b14114754ba6b741ea7b9be08, type: 3}
+  - {fileID: 21300000, guid: a566b5ec93f3a254faeb2c11c89fbec9, type: 3}
+  - {fileID: 21300000, guid: 7d60c20e145b3ef45a75f85b3d17a8a4, type: 3}
+  - {fileID: 21300000, guid: 18b7261eb6d6f1540b48db76ee7afed9, type: 3}
+  - {fileID: 21300000, guid: 1fa4275e772bb054b9f2396dca8ea265, type: 3}
+  - {fileID: 21300000, guid: 71ff9a0f54b9ae847865f1a7bcb68867, type: 3}
+  - {fileID: 21300000, guid: 608efa4f1637ad74ebf8536f557975da, type: 3}
+  - {fileID: 21300000, guid: 71e7706fd488c04469f55a9e7e1d0a4f, type: 3}
+  - {fileID: 21300000, guid: eb3c437fa24713c47b0ca6a3dd16dbbf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CircleButton
+  - Backspace-image
+  - Tex_BG_Template
+  - NavbarIconTutorial
+  - Popup_Background
+  - Icon144
+  - Tex_BG_Mountains
+  - NavbarIconHome
+  - Tick-image
+  - LogoBig
+  - Icon72
+  - NavbarIconSettings
+  - Tex_BG_Cloud1
+  - GradBackground_Red
+  - Close_Button
+  - NavbarIconSupport
+  - Icon96
+  - KeyboardKey
+  - NotValidWordBackground
+  - Icon192
+  - backspace
+  - ShadowImage
+  - Icon36
+  - NavbarIconShare
+  - Crown
+  - GradBackground_Green
+  - CrownShadow
+  - Icon_Share_White
+  - Icon_Music
+  - Icon_Sound
+  - Square
+  - Icon48
+  - ButtonBasic
+  - Tex_BG_Cloud2
+  - Tex_BG_Sky
+  - RedLine
+  - GradBackground_Blue
+  - LetterBox
+  - NavbarIconStatics
+  - Icon_Star
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0
